@@ -1,0 +1,6 @@
+pytest
+openai
+pyttsx3
+SpeechRecognition
+git+https://github.com/openai/whisper.git
+pyaudio
